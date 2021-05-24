@@ -1,0 +1,26 @@
+<resources>
+    <string name="message_enter">Enter your message</string>
+    <string name="service_look">Looking for people around you...</string>
+    <string name="warn_bluetooth">"This application requires the BlueTooth technology"</string>
+    <string name="miss_bluetooth">"This application requires the BlueTooth technology, the device does not support it."</string>
+    <string name="bluetooth_off">BlueTooth is off!</string>
+    <string name="require_bluetooth">BlueTooth is required.</string>
+    <string name="answer_y">Yes</string>
+    <string name="answer_n">No</string>
+    <string name="app_name">Proximity Chat</string>
+    <string name="welcome_message">WELCOME ON THE PROXIMITY CHAT</string>
+    <string name="status">Status:</string>
+    <string name="offline">OFFLINE</string>
+    <string name="online">ONLINE</string>
+    <string name="people_around">People at proximity:</string>
+    <string name="main_message_edit">Enter Your Message</string>
+    <string name="main_button_send">Send</string>
+    <string name="error_message_send">Please, enter something!</string>
+    <string name="send_message">SEND MESSAGE</string>
+    <string name="language_french">Francais</string>
+    <string name="language_english">English</string>
+    <string name="set_language_english">Language set to English</string>
+    <string name="set_language_french">Langage en Francais</string>
+    <string name="p_language">Language parameters</string>
+
+</resources>

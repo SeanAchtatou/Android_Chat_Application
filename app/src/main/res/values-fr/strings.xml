@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message_enter">Ecrivez votre message</string>
+    <string name="service_look">Recherche de personnes autour de vous...</string>
+    <string name="warn_bluetooth">"Cette application a besoin de la technologie Bluetooth"</string>
+    <string name="miss_bluetooth">"Cette application a besoin de la technologie Bluetooth, cette appareil ne le supporte pas."</string>
+    <string name="bluetooth_off">BlueTooth eteint!</string>
+    <string name="require_bluetooth">BlueTooth requis.</string>
+    <string name="answer_y">Oui</string>
+    <string name="answer_n">Non</string>
+    <string name="app_name">Chat de proximite</string>
+    <string name="welcome_message">BIENVENUE SUR LE CHAT DE PROXIMITE</string>
+    <string name="status">Status:</string>
+    <string name="offline">HORS LINE</string>
+    <string name="online">EN LIGNE</string>
+    <string name="people_around">Personnes a proximite:</string>
+    <string name="main_message_edit">Ecrivez votre message</string>
+    <string name="main_button_send">Envoyer</string>
+    <string name="error_message_send">Veuillez entrer quelque chose!</string>
+    <string name="send_message">ENVOYER MESSAGE</string>
+    <string name="language_french">Francais</string>
+    <string name="language_english">English</string>
+    <string name="set_language_english">Language set to English</string>
+    <string name="set_language_french">Langage en Francais</string>
+    <string name="p_language">Parametre de langues</string>
+</resources>
